@@ -2,6 +2,10 @@
 
 A comprehensive RESTful web application built with Spring Boot for managing food orders, restaurants, menu items, and users. This system provides APIs for customers to browse restaurants, view menus, place orders, and for administrators to manage the entire system.
 
+## About This Project
+
+This project is part of my learning journey to master Spring Boot framework and gain deeper knowledge in software development.
+
 ## Features
 
 - **User Management**: Create, update, and manage customer and admin accounts
